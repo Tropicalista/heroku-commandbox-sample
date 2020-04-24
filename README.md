@@ -5,7 +5,7 @@ This application provides an example app for deploying applications on Heroku an
 
 Deploy this sample app:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ortus-solutions/heroku-commandbox-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tropicalista/heroku-commandbox-sample)
 
 
 ## Usage
